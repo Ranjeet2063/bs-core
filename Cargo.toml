@@ -1,0 +1,15 @@
+[package]
+name = "bs-core"
+version = "0.1.0"
+edition = "2021"
+authors = ["Ranjeet Gupta <ranjeet2063@users.noreply.github.com>"]
+description = "Formally verified astronomical Bikram Sambat (B.S.) date engine in Rust with WebAssembly support"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/Ranjeet2063/bs-core"
+keywords = ["nepal", "bikram-sambat", "date", "calendar", "fintech"]
+categories = ["date-and-time", "wasm", "internationalization"]
+readme = "README.md"
+
+[dependencies]
+
+[dev-dependencies]

@@ -1,0 +1,26 @@
+{
+  "name": "@ranjeet2063/bs-core",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "The authoritative, formally verified astronomical Bikram Sambat (B.S.) date engine for Nepal",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test test/index.test.js"
+  },
+  "keywords": [
+    "nepal",
+    "bikram-sambat",
+    "nepali-date",
+    "bs-date",
+    "calendar",
+    "fintech"
+  ],
+  "author": "Ranjeet Gupta <ranjeet2063@users.noreply.github.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ranjeet2063/bs-core.git"
+  }
+}
